@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lmihype
-- 🌱 I’m currently learning html
+- 👋 Hi, I’m LMI Hype
+- 🌱 I’m currently learning html, css
 
 <!---
 lmihype/lmihype is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
